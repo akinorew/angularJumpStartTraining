@@ -28,3 +28,21 @@ Then open up your browser at `http://localhost:4200`
 Have fun and good luck!
 
 Christoph & Pascal & Thomas
+
+# Links from the training
+
+https://gitter.im/angular/angular
+
+https://github.com/thoughtram
+
+http://blog.thoughtram.io/angular/2015/05/09/writing-angular-2-code-in-es5.html
+
+http://blog.thoughtram.io/angular/2015/09/17/resolve-service-dependencies-in-angular-2.html
+
+http://blog.thoughtram.io/angular/2015/05/18/dependency-injection-in-angular-2.html
+
+http://blog.thoughtram.io/angular/2016/01/06/taking-advantage-of-observables-in-angular2.html
+
+http://jsbin.com/kodurujexi/2/edit?js,console
+
+https://github.com/thoughtram/angular2-master-class-jump-start-solutions
