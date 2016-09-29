@@ -29,6 +29,12 @@ Have fun and good luck!
 
 Christoph & Pascal & Thomas
 
+# Presentation & exercises
+
+http://thoughtram.io/angular2-master-class-jump-start-slides/#/
+
+https://github.com/thoughtram/angular2-master-class-jump-start-exercise-descriptions/tree/master/exercises/jump-start-tutorial
+
 # Links from the training
 
 https://gitter.im/angular/angular
